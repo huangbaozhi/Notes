@@ -1,0 +1,136 @@
+{
+    "root": {
+        "data": {
+            "id": "cxqhk76k0k80",
+            "created": 1702803775288,
+            "text": "WPS"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cxqhkzuzt1s0",
+                    "created": 1702803837715,
+                    "text": "需求分析"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxqhlhr10ig0",
+                            "created": 1702803876658,
+                            "text": "wps实现文档编辑，排版，打印功能"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxqhl8cw2w00",
+                    "created": 1702803856212,
+                    "text": "文件"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxqhp644ntk0",
+                            "created": 1702804164785,
+                            "text": "新建"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxqhp8z9s6g0",
+                            "created": 1702804171022,
+                            "text": "打开"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxqhpaewwa80",
+                            "created": 1702804174144,
+                            "text": "保存"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxqhpc4e2y00",
+                            "created": 1702804177862,
+                            "text": "另存为"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxqhpeaahds0",
+                            "created": 1702804182572,
+                            "text": "打印"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxqhpgfq5rs0",
+                            "created": 1702804187254,
+                            "text": "打印预览"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxqhpkcsdjc0",
+                            "created": 1702804195784,
+                            "text": "退出"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxqhlfjrlkw0",
+                    "created": 1702803871865,
+                    "text": "编辑"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxqhlydtrnk0",
+                    "created": 1702803912865,
+                    "text": "格式"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxqhm09tp600",
+                    "created": 1702803916976,
+                    "text": "窗口"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxqhm1vpqew0",
+                    "created": 1702803920477,
+                    "text": "帮助"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxqhm3v6p8g0",
+                    "created": 1702803924798,
+                    "text": "项目扩展"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
