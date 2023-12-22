@@ -41,3 +41,8 @@ void ChildWnd::docBeModified()
 }
 
 ```
+
+### 2、活动子窗口
+
+
+
